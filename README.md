@@ -2,7 +2,7 @@
 
 A minimalistic Figma clone to demonstrate real-world features such as live collaboration with cursor chat, comments, reactions, and drawing designs (shapes, image upload) on the canvas using fabric.js.
 
-# [Live site](https://tshirt.allanalton.com/)
+# [Live site](https://figma-clone-omega.vercel.app/)
 
 ![gh](https://github.com/alton47/Figma-clone/assets/79355369/2e6c98ce-21fa-4bf3-810f-76a2f5a96b90)
 
